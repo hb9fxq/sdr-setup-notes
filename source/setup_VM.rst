@@ -13,9 +13,9 @@ All SDR related stuff is in ``~/wrk``
 User / password in this sample VM is: ``sdr``
 
 Import to Virtualbox
---------------------
+~~~~~~~~~~~~~~~~~~~~~
 
-First download and install Virtualbox and from `https://www.virtualbox.org/wiki/Downloads<https://www.virtualbox.org/wiki/Downloads>`__
+First download and install Virtualbox and from `https://www.virtualbox.org/wiki/Downloads <https://www.virtualbox.org/wiki/Downloads>`__
 
 **Important: Also install Oracle VM VirtualBox Extension Pack, since we want to use USB devices from within the guest machine**
 
@@ -26,7 +26,7 @@ Double click the downloaded ova file and follow the wizard:
 .. figure:: ./img/media/image48.png
    :alt:
 
-Way B) Setup your own VM ← “Choose this way :-)”
+Way B - Setup your own VM ← “Choose this way :-)”
 -------------------------------------------------
 
 If you want to use a VM with virtualbox start here, otherwise, skip to
@@ -37,7 +37,8 @@ Create a new VM in Virtualbox and tweak some settings:
 .. figure:: ./img/media/image56.png
    :alt:
 
-Select Type “Linux” with Version “Ubuntu (64-bit)” If 64-bit is not in the list: Enable virtualization options in your system BIOS: `https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/<https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/>`__
+Select Type “Linux” with Version “Ubuntu (64-bit)” If 64-bit is not in the list: Enable virtualization options in your system BIOS:
+`https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/ <https://www.howtogeek.com/213795/how-to-enable-intel-vt-x-in-your-computers-bios-or-uefi-firmware/>`__
 
 Create a virtual hard drive. around 50GB should be a good choice.
 
@@ -94,14 +95,14 @@ Then do a system update:
 
 **Reboot the VM!**
 
-Way C) Native Linux Setup option
---------------------------------
+Way C - Native Linux Setup option
+----------------------------------
 
 All following steps are valid for a native Linux Setup! Finding a good
 Linux compatible hardware can be hard…. An unsorted, random list of
 directions:
 
--  `https://www.tuxedocomputers.com/ <https://www.tuxedocomputers.com/>`
+-  `https://www.tuxedocomputers.com/ <https://www.tuxedocomputers.com/>`__
 -  `https://www.techradar.com/news/best-linux-laptops-of-2018 <https://www.techradar.com/news/best-linux-laptops-of-2018>`__
 -  `https://www.slant.co/topics/1184/~laptops-for-linux <https://www.slant.co/topics/1184/~laptops-for-linux>`__
 -  `https://hblok.net/blog/posts/2017/03/21/linux-compatible-notebooks-and-laptops/ <https://hblok.net/blog/posts/2017/03/21/linux-compatible-notebooks-and-laptops/>`__

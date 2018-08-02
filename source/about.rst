@@ -2,7 +2,7 @@ About this notes
 ================
 
 Post to the USKA academy workshop
-(`https://www.uska.ch/2018/02/06/uska-academy-2018/<https://www.uska.ch/2018/02/06/uska-academy-2018/>`__ ) around GNU Radio, a few peers reached out to me with questions about how to get started, without the LiveUSB system used in the workshop in Lucerne.
+(`https://www.uska.ch/2018/02/06/uska-academy-2018/ <https://www.uska.ch/2018/02/06/uska-academy-2018/>`__ ) around GNU Radio, a few peers reached out to me with questions about how to get started, without the LiveUSB system used in the workshop in Lucerne.
 
 This tutorial might help - might give some directions how to setup a SDR-Linux environment.
 
@@ -39,3 +39,4 @@ Devices used in this Tutorial
 -  `https://www.rtl-sdr.com/product/rtl-sdr-blog-v3-r820t2-rtl2832u-1ppm-tcxo-sma-software-defined-radio-dongle-only/ <https://www.rtl-sdr.com/product/rtl-sdr-blog-v3-r820t2-rtl2832u-1ppm-tcxo-sma-software-defined-radio-dongle-only/>`__
 -  `http://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html <http://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html>`__
 -  `https://www.ettus.com/product/details/USRP-B200mini-i <https://www.ettus.com/product/details/USRP-B200mini-i>`__
+

@@ -55,7 +55,7 @@ check the output if it finds the stick:
 press **ctrl+c** to cancel rtl_test.
 
 For details see
-`https://osmocom.org/projects/rtl-sdr/wiki<https://osmocom.org/projects/rtl-sdr/wiki>`__
+`https://osmocom.org/projects/rtl-sdr/wiki <https://osmocom.org/projects/rtl-sdr/wiki>`__
 
 RTL_433 tool setup
 -------------------
@@ -82,7 +82,7 @@ Even if you do not own your own temperature sensor you’ll get a good amount of
    :alt: 
 
 More on
-`https://github.com/merbanan/rtl_433<https://github.com/merbanan/rtl_433>`__
+`https://github.com/merbanan/rtl_433 <https://github.com/merbanan/rtl_433>`__
 
 Special hint for all MQTT fanboys:
 

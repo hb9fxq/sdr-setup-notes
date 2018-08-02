@@ -51,14 +51,14 @@ Volk profile will create a profile to compute FFT optimized for the system it ru
 
 Other OOT Modules I’d suggest to take a look at is:
 
--  gr-paint `https://github.com/drmpeg/gr-paint<https://github.com/drmpeg/gr-paint>`__
+-  gr-paint `https://github.com/drmpeg/gr-paint <https://github.com/drmpeg/gr-paint>`__
 -  gr-gsm `https://github.com/ptrkrysik/gr-gsm <https://github.com/ptrkrysik/gr-gsm>`__  ....Ohhm, only use if you operate a cell network for development purposes!
--  gr-ieee802-11 `https://github.com/bastibl/gr-ieee802-11<https://github.com/bastibl/gr-ieee802-11>`__ `https://github.com/bastibl/gr-ieee802-15-4<https://github.com/bastibl/gr-ieee802-15-4>`__
+-  gr-ieee802-11 `https://github.com/bastibl/gr-ieee802-11 <https://github.com/bastibl/gr-ieee802-11>`__ `https://github.com/bastibl/gr-ieee802-15-4 <https://github.com/bastibl/gr-ieee802-15-4>`__
 -  re-DECTed >
-   `https://github.com/znuh/re-DECTed<https://github.com/znuh/re-DECTed>`__
+   `https://github.com/znuh/re-DECTed <https://github.com/znuh/re-DECTed>`__
 -  rtty/psk31 stuff: >
-   `https://github.com/bitglue/gr-radioteletype<https://github.com/bitglue/gr-radioteletype>`__
--  Must-have: when not in a VM, using a native Linux PC with a good GPU: gr-fosphor   `https://github.com/osmocom/gr-fosphor<https://github.com/osmocom/gr-fosphor>`__ ( hint: when running on a recent PC hardware.... do a
+   `https://github.com/bitglue/gr-radioteletype <https://github.com/bitglue/gr-radioteletype>`__
+-  Must-have: when not in a VM, using a native Linux PC with a good GPU: gr-fosphor   `https://github.com/osmocom/gr-fosphor <https://github.com/osmocom/gr-fosphor>`__ ( hint: when running on a recent PC hardware.... do a
    ``sudo apt install libfreetype6-dev ocl-icd-opencl-dev python-opengl``
    before installing.)
 

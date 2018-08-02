@@ -4,9 +4,9 @@ Inspectrum, GRC Burst Tags / Great M. Ossmann stuff (Not running in VM)
 Use case
 --------
 
-Ideas derived from the video of Michael Ossmann regarding “Whole Packet Clock Recovery” `https://www.youtube.com/watch?v=rQkBDMeODHc<https://www.youtube.com/watch?v=rQkBDMeODHc>`__
+Ideas derived from the video of Michael Ossmann regarding “Whole Packet Clock Recovery” `https://www.youtube.com/watch?v=rQkBDMeODHc <https://www.youtube.com/watch?v=rQkBDMeODHc>`__
 
-I’ve copied the GRC flow graph from the youtube video to GRC (No warranties that it is fully correct): `https://gist.github.com/krippendorf/149ffc7cca6ec33eb84daf2c70989829<https://gist.github.com/krippendorf/149ffc7cca6ec33eb84daf2c70989829>`__
+I’ve copied the GRC flow graph from the youtube video to GRC (No warranties that it is fully correct): `https://gist.github.com/krippendorf/149ffc7cca6ec33eb84daf2c70989829 <https://gist.github.com/krippendorf/149ffc7cca6ec33eb84daf2c70989829>`__
 
 Inspectrum is a tool for analysing captured signals, primarily from software-defined radio receivers.
 
@@ -42,6 +42,6 @@ Basic use
 ---------
 
 The Python stuff mentioned in the video ist here:
-`**https://github.com/mossmann/clock-recovery**<https://github.com/mossmann/clock-recovery>`__
+`https://github.com/mossmann/clock-recovery <https://github.com/mossmann/clock-recovery>`__
 
 Run with command: inspectrum

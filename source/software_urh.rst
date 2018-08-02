@@ -4,7 +4,7 @@ URH
 Installation
 -------------
 
-More details on `https://github.com/jopohl/urh#linux<https://github.com/jopohl/urh#linux>`__
+More details on `https://github.com/jopohl/urh#linux <https://github.com/jopohl/urh#linux>`__
 
 .. code:: bash
 
