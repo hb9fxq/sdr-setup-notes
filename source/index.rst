@@ -3,18 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sdr-setup-notes's documentation!
+Welcome to HB9FXQ's sdr-setup-notes's documentation!
 ===========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   about
+   setup_VM
+   setup_REQUIREMENTS
+   dev_hackrf
+   dev_rtlsdr
+   software_grc
+   software_dump1090
+   software_urh
+   software_baudline
+   software_inspectrum
+   dev_limesdr
+   software_sdrplay
