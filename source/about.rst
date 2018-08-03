@@ -4,7 +4,7 @@ About this notes
 Post to the USKA academy workshop
 (`https://www.uska.ch/2018/02/06/uska-academy-2018/ <https://www.uska.ch/2018/02/06/uska-academy-2018/>`__ ) around GNU Radio, a few peers reached out to me with questions about how to get started, without the LiveUSB system used in the workshop in Lucerne.
 
-This tutorial might help - might give some directions how to setup a SDR-Linux environment.
+This tutorial might help - might give some directions how to setup a SDR-Linux environment. Please feel free to edit or pullrequest my Markdown notes on my [GitHub repository](https://github.com/krippendorf/sdr-setup-notes).
 
 **All steps are tested with best effort only for Linux mint 18.3 - no Support!**
 
