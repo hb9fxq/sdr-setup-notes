@@ -1,6 +1,14 @@
 About this notes
 ================
 
+.. figure:: ./img/cc_non_commercial_4.0.png
+   :alt: Creative Commons Attribution-NonCommercial 4.0 International
+
+   Creative Commons Attribution-NonCommercial 4.0 International
+
+Please consider a small donation to tip me a coffee: `https://paypal.me/hb9fxq <https://paypal.me/hb9fxq>`__
+
+
 Post to the USKA academy workshop
 (`https://www.uska.ch/2018/02/06/uska-academy-2018/ <https://www.uska.ch/2018/02/06/uska-academy-2018/>`__ ) around GNU Radio, a few peers reached out to me with questions about how to get started, without the LiveUSB system used in the workshop in Lucerne.
 

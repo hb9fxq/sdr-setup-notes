@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'sdr-setup-notes'
-copyright = '2018, HB9FXQ, Frank Werner-Krippendorf'
+copyright = '2018, HB9FXQ, Frank Werner-Krippendorf, Creative Commons Attribution-NonCommercial 4.0 International'
 author = 'HB9FXQ, Frank Werner-Krippendorf'
 
 # The short X.Y version
