@@ -7,7 +7,7 @@ The Pybombs way
 .. code:: bash
 
     sudo pip install setuptools
-    sudo pip install pybombs
+    sudo pip install git+git://github.com/gnuradio/pybombs.git
 
 In your workdirectory ~/wrk generate a folder for pybombs to use as a prefix. This will install all sources and binaries into that prefix to make sure it’ll be separated from the system library and bin paths. Resulting in a clean environment:
 
