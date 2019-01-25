@@ -9,7 +9,7 @@ Open a terminal and run:
 
     sudo apt install -y build-essential cmake libusb-1.0-0-dev pkg-config
     libfftw3-dev htop curl wget git zsh python-pip virtualenv libtool
-    autoconf pkg-config libxml2-dev vim ncdu
+    autoconf pkg-config libxml2-dev vim ncdu libfftw3-dev
 
 ``sudo pip install --upgrade pip``
 
