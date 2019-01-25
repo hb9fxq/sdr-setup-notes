@@ -11,7 +11,7 @@ Now my code is feature complete and I’ve provided it to some friends for code 
 
    cd ~/wrk
    source ~/wrk/grc_wrk/default/setup_env.sh
-   https://gitlab.com/HB9FXQ/gr-sdrplay.git
+   git clone https://gitlab.com/HB9FXQ/gr-sdrplay.git
    cd gr-sdrplay && mkdir build && cd build && cmake .. && make && make install
    sudo ldconfig
    
