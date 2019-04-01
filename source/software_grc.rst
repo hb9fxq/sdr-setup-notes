@@ -169,7 +169,7 @@ Now build checkout the special sdrplay2 branch of the gr-osmosdr fork from sdrpl
     git clone https://github.com/sdrplay/gr-osmosdr
     cd gr-osmosdr && git checkout sdrplay2 && mkdir build && cd build
     mkdir -p ~/wrk/libs/gr-osmosdr-sdrplay
-    cmake -DCMAKE_INSTALL_PREFIX=~/wrk/libs/gr-osmosdr-sdrplay -DENABLE_NONFREE=yes ..
+    cmake -DCMAKE_INSTALL_PREFIX=~/wrk/libs/gr-osmosdr-sdrplay -DENABLE_NONFREE=yes -DENABLE_BLADERF=OFF ..
     make && make install
 
 To make GNU Radio, GQRX etc make sure to pick up the shared libraries from your experimental directory, set the ``LD_LIBRARY_PATH`` & ``PYTHONPATH`` to the target directory.
